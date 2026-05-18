@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: syria-gaming-hub
+    runtime: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: ADMIN_SECRET_KEY
+        generateValue: true
+      - key: DISCORD_WEBHOOK_URL
+        sync: false
