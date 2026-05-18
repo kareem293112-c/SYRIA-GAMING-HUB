@@ -1,0 +1,6 @@
+{
+  "name": "CS2 Case Opener",
+  "description": "A CS2 case opening platform for Discord community giveaways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": "1", "name": "Karambit | Doppler", "price": 500, "rarity": "أسطورية", "imageUrl": "https://via.placeholder.com/150" },
+    { "id": "2", "name": "AK-47 | Asiimov", "price": 40, "rarity": "نادرة", "imageUrl": "https://via.placeholder.com/150" },
+    { "id": "3", "name": "M4A4 | Desert-Strike", "price": 5, "rarity": "غير شائعة", "imageUrl": "https://via.placeholder.com/150" }
+  ]
+}
